@@ -1,0 +1,3 @@
+<jboss-web>
+	<context-root>jsf_blank</context-root>
+</jboss-web>
